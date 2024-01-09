@@ -1,10 +1,11 @@
 {
     "name": "Must Have IPA Library",
+    "identifier": "com.bluekernelpanic.musthaveipalibrary",
     "subtitle": "must have applications",
     "description": "must have applications",
     "iconURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/Must-Have-IPA-Library-icon.png",
     "headerURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/Must-Have-IPA-Library-icon.png",
-    "tintColor": "#183f5c",
+    "tintColor": "183f5c",
     "sourceURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/repo.json",
     "apps": [
         {
