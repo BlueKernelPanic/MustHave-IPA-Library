@@ -7,13 +7,25 @@
     "headerURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/Must-Have-IPA-Library-icon.png",
     "tintColor": "183f5c",
     "sourceURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/repo.json",
+    "featuredApps": [
+      "com.spotify.client",
+      "com.google.ios.youtube",
+      "com.google.ios.youtubemusic",
+      "tv.twitch"
+    ],
     "apps": [
         {
             "name": "AppStore++",
             "bundleIdentifier": "com.cokepokes.AppStorePlus",
+            "appID": "com.cokepokes.AppStorePlus",
             "developerName": "CokePokes",
             "tintColor": "3a4491",
             "iconURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/com.cokepokes.AppStorePlus.png",
+            "screenshotURLs": [],
+            "appPermissions": {
+              "entitlements": [],
+              "privacy": []
+            },
             "versions": [
               {
                 "version": "1.0.3-2",
@@ -27,9 +39,15 @@
         {
             "name": "CarTube",
             "bundleIdentifier": "com.avangelista.CarTube",
+            "appID": "com.cokepokes.AppStorePlus",
             "developerName": "Avangelista",
             "tintColor":	"162434",
             "iconURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/com.avangelista.CarTube.png",
+            "screenshotURLs": [],
+            "appPermissions": {
+              "entitlements": [],
+              "privacy": []
+            },
             "versions": [
               {
                 "version": "1.3",
@@ -43,9 +61,15 @@
         {
             "name": "CyPwnStore",
             "bundleIdentifier": "Ed0ardo.CyPwn-Store",
+            "appID": "Ed0ardo.CyPwn-Store",
             "developerName": "CyPwn IPA Library",
             "tintColor":	"343a40",
             "iconURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/Ed0ardo.CyPwn-Store.png",
+            "screenshotURLs": [],
+            "appPermissions": {
+              "entitlements": [],
+              "privacy": []
+            },
             "versions": [
               {
                 "version": "7.0",
@@ -59,9 +83,15 @@
         {
             "name": "Enmity (Discord client)",
             "bundleIdentifier": "com.hammerandchisel.discord",
+            "appID": "com.hammerandchisel.discord",
             "developerName": "Enmity",
             "tintColor":	"284ed5",
             "iconURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/com.hammerandchisel.discord.png",
+            "screenshotURLs": [],
+            "appPermissions": {
+              "entitlements": [],
+              "privacy": []
+            },
             "versions": [
               {
                 "version": "210.1",
@@ -75,9 +105,15 @@
         {
             "name": "Misaka",
             "bundleIdentifier": "com.straight-tamago.misakaRS",
+            "appID": "com.straight-tamago.misakaRS",
             "developerName": "Misaka",
             "tintColor":	"bf2cbc",
             "iconURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/com.straight-tamago.misakaRS.png",
+            "screenshotURLs": [],
+            "appPermissions": {
+              "entitlements": [],
+              "privacy": []
+            },
             "versions": [
               {
                 "version": "8.1.1",
@@ -91,9 +127,15 @@
         {
             "name": "Spotify (Spotilife)",
             "bundleIdentifier": "com.spotify.client",
-            "developerName": "u/alnoise / zxcvbn's tweaked IPAs",
+            "appID": "com.spotify.client",
+            "developerName": "zxcvbn\u2019s tweaked IPAs",
             "tintColor":	"1db954",
             "iconURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/com.spotify.client.png",
+            "screenshotURLs": [],
+            "appPermissions": {
+              "entitlements": [],
+              "privacy": []
+            },
             "versions": [
               {
                 "version": "8.6.42",
@@ -107,9 +149,15 @@
         {
             "name": "TrollApps",
             "bundleIdentifier": "org.resonance.store",
+            "appID": "org.resonance.store",
             "developerName": "TrollApps",
             "tintColor": "8b30d2",
             "iconURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/org.resonance.store.png",
+            "screenshotURLs": [],
+            "appPermissions": {
+              "entitlements": [],
+              "privacy": []
+            },
             "versions": [
               {
                 "version": "2.3b-Hotfix3",
@@ -123,9 +171,15 @@
         {
             "name": "Truecaller (Premium)",
             "bundleIdentifier": "com.truesoftware.TrueCallerOther",
+            "appID": "com.truesoftware.TrueCallerOther",
             "developerName": "Ravand Bajlory / iOS Tutorials + App Cracks",
             "tintColor":	"4b9eff",
             "iconURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/com.truesoftware.TrueCallerOther.png",
+            "screenshotURLs": [],
+            "appPermissions": {
+              "entitlements": [],
+              "privacy": []
+            },
             "versions": [
               {
                 "version": "12.71",
@@ -139,9 +193,15 @@
         {
             "name": "Twitch (Plus)",
             "bundleIdentifier": "tv.twitch",
-            "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg",
+            "appID": "tv.twitch",
+            "developerName": "zxcvbn\u2019s tweaked IPAs",
             "tintColor":	"6441a5",
             "iconURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/tv.twitch.png",
+            "screenshotURLs": [],
+            "appPermissions": {
+              "entitlements": [],
+              "privacy": []
+            },
             "versions": [
               {
                 "version": "17.6-0.1.0",
@@ -155,9 +215,15 @@
         {
             "name": "Youtube (uYouEnhanced)",
             "bundleIdentifier": "com.google.ios.youtube",
-            "developerName": "arichorn / zxcvbn's tweaked IPAs",
+            "appID": "com.google.ios.youtube",
+            "developerName": "zxcvbn\u2019s tweaked IPAs",
             "tintColor":	"e85567",
             "iconURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/com.google.ios.youtube.png",
+            "screenshotURLs": [],
+            "appPermissions": {
+              "entitlements": [],
+              "privacy": []
+            },
             "versions": [
               {
                 "version": "18.49.3-3.0.1-F3",
@@ -171,9 +237,15 @@
         {
             "name": "Youtube Music (YTMusicUltimate)",
             "bundleIdentifier": "com.google.ios.youtubemusic",
-            "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / AppDB / IPAHACK / FayezUpdates / zxcvbn\u2019s tweaked IPAs / DarkWebUser / ginsudev / HertzSign iPA Library",
+            "appID": "com.google.ios.youtubemusic",
+            "developerName": "zxcvbn\u2019s tweaked IPAs",
             "tintColor":	"5e1f12",
             "iconURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/com.google.ios.youtubemusic.png",
+            "screenshotURLs": [],
+            "appPermissions": {
+              "entitlements": [],
+              "privacy": []
+            },
             "versions": [
               {
                 "version": "1.5.2-6.34.1",
