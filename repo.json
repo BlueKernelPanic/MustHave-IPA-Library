@@ -1,0 +1,176 @@
+{
+    "name": "Must Have IPA Library",
+    "subtitle": "must have applications",
+    "description": "must have applications",
+    "iconURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/Must-Have-IPA-Library-icon.png",
+    "headerURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/Must-Have-IPA-Library-icon.png",
+    "tintColor": "#183f5c",
+    "sourceURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/repo.json",
+    "apps": [
+        {
+            "name": "AppStore++",
+            "bundleIdentifier": "com.cokepokes.AppStorePlus",
+            "developerName": "CokePokes",
+            "iconURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/com.cokepokes.AppStorePlus.png",
+            "versions": [
+              {
+                "version": "1.0.3-2",
+                "date": "2022-11-10",
+                "size": 17588239,
+                "downloadURL": "https://github.com/BlueKernelPanic/MustHave-IPA-Library/releases/download/2024-01-09/AppStorePlusPlus-1.0.3-2.ipa",
+                "localizedDescription": "AppStore++ for TrollStore! Upgrade/downgrade App Store apps."
+              }
+            ]
+        },
+        {
+            "name": "CarTube",
+            "bundleIdentifier": "com.avangelista.CarTube",
+            "developerName": "Avangelista",
+            "iconURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/com.avangelista.CarTube.png",
+            "versions": [
+              {
+                "version": "1.3",
+                "date": "2023-01-23",
+                "size": 574441,
+                "downloadURL": "https://github.com/BlueKernelPanic/MustHave-IPA-Library/releases/download/2024-01-09/CarTube-1.3.ipa",
+                "localizedDescription": "YouTube for CarPlay, without a jailbreak. Features include no ads, skip sponsored segments via SponsorBlock, some system integrations, etc"
+              }
+            ]
+        },
+        {
+            "name": "CyPwnStore",
+            "bundleIdentifier": "Ed0ardo.CyPwn-Store",
+            "developerName": "CyPwn IPA Library",
+            "iconURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/Ed0ardo.CyPwn-Store.png",
+            "versions": [
+              {
+                "version": "7.0",
+                "date": "2023-06-25",
+                "size": 914692,
+                "downloadURL": "https://github.com/BlueKernelPanic/MustHave-IPA-Library/releases/download/2024-01-09/CyPwnStore-7.0.ipa",
+                "localizedDescription": "App to browse the CyPwn IPA Library, regular and TrollStore"
+              }
+            ]
+        },
+        {
+            "name": "Enmity (Discord client)",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "developerName": "Enmity",
+            "iconURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/com.hammerandchisel.discord.png",
+            "versions": [
+              {
+                "version": "210.1",
+                "date": "2024-01-09",
+                "size": 95148065,
+                "downloadURL": "https://github.com/BlueKernelPanic/MustHave-IPA-Library/releases/download/2024-01-09/Enmity_210.1.ipa",
+                "localizedDescription": "The power of addons, all in your hand. Discord Client Modification"
+              }
+            ]
+        },
+        {
+            "name": "Misaka",
+            "bundleIdentifier": "com.straight-tamago.misakaRS",
+            "developerName": "Misaka",
+            "iconURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/com.straight-tamago.misakaRS.png",
+            "versions": [
+              {
+                "version": "8.1.1",
+                "date": "2024-01-06",
+                "size": 30383029,
+                "downloadURL": "https://github.com/BlueKernelPanic/MustHave-IPA-Library/releases/download/2024-01-09/misaka-v8.1.1.ipa",
+                "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download."
+              }
+            ]
+        },
+        {
+            "name": "Spotify (Spotilife)",
+            "bundleIdentifier": "com.spotify.client",
+            "developerName": "u/alnoise / zxcvbn's tweaked IPAs",
+            "iconURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/com.spotify.client.png",
+            "versions": [
+              {
+                "version": "8.6.42",
+                "date": "2024-01-02",
+                "size": 40838126,
+                "downloadURL": "https://github.com/BlueKernelPanic/MustHave-IPA-Library/releases/download/2024-01-09/Sposilife-8.6.42.ipa",
+                "localizedDescription": "Spotify Premium. Spotilife 1.8 + Sposify 8.5.52 (Customize Spotify experience according to your preferences), SpotifyEqualizerEnhancer 1.2 (configure the equalizer) and OpenSpotifySafariExtension (Open Spotify links in the app for cert users and sideloadly). This version is fully functional on Carplay"
+              }
+            ]
+        },
+        {
+            "name": "TrollApps",
+            "bundleIdentifier": "org.resonance.store",
+            "developerName": "TrollApps",
+            "iconURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/org.resonance.store.png",
+            "versions": [
+              {
+                "version": "2.3b-Hotfix3",
+                "date": "2023-12-29",
+                "size": 5533915,
+                "downloadURL": "https://github.com/BlueKernelPanic/MustHave-IPA-Library/releases/download/2024-01-09/TrollApps-2.3b-Hotfix3.ipa",
+                "localizedDescription": "This new TrollApps serves as a substitute to the iOS App Store for individuals using TrollStore, providing an updated version of its predecessor (above). It enables users to directly download and install applications from various repositories into TrollStore. Require iOS 14.0> and latest version of TrollStore. Note: Some apps may remain marked as \"update\" even though they are running the latest version."
+              }
+            ]
+        },
+        {
+            "name": "Truecaller (Premium)",
+            "bundleIdentifier": "com.truesoftware.TrueCallerOther",
+            "developerName": "Ravand Bajlory / iOS Tutorials + App Cracks",
+            "iconURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/com.truesoftware.TrueCallerOther.png",
+            "versions": [
+              {
+                "version": "12.71",
+                "date": "2023-12-22",
+                "size": 93315725,
+                "downloadURL": "https://github.com/BlueKernelPanic/MustHave-IPA-Library/releases/download/2024-01-09/Truecaller_12.73_premium.ipa",
+                "localizedDescription": "TrollStore-only. Gold Membership cracked, (require more testing). Tutorial: Begin by installing TrueCaller from the App Store and follow all the instructions provided on-screen. Once you've completed this, proceed to force install the TrollStore version. (without uninstalling the original app)."
+              }
+            ]
+        },
+        {
+            "name": "Twitch (Plus)",
+            "bundleIdentifier": "tv.twitch",
+            "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg",
+            "iconURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/tv.twitch.png",
+            "versions": [
+              {
+                "version": "17.6-0.1.0",
+                "date": "2024-01-03",
+                "size": 83087847,
+                "downloadURL": "https://github.com/BlueKernelPanic/MustHave-IPA-Library/releases/download/2024-01-09/TwitchPlus-17.6-0.1.0.ipa",
+                "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads"
+              }
+            ]
+        },
+        {
+            "name": "Youtube (uYouEnhanced)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "arichorn / zxcvbn's tweaked IPAs",
+            "iconURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/com.google.ios.youtube.png",
+            "versions": [
+              {
+                "version": "18.49.3-3.0.1-F3",
+                "date": "2024-01-09",
+                "size": 126528062,
+                "downloadURL": "https://github.com/BlueKernelPanic/MustHave-IPA-Library/releases/download/2024-01-09/uYouEnhanced_18.49.3_3.0.1_F3.ipa",
+                "localizedDescription": "Formerly known as uYouPlusExtra. This enhanced version of uYou+ not only incorporates its existing features but also integrates additional functionalities that were initially intended to be included in the original uYou+, but might have been declined during its initial development phase. Full features here."
+              }
+            ]
+        },
+        {
+            "name": "Youtube Music (YTMusicUltimate)",
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / AppDB / IPAHACK / FayezUpdates / zxcvbn\u2019s tweaked IPAs / DarkWebUser / ginsudev / HertzSign iPA Library",
+            "iconURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/com.google.ios.youtubemusic.png",
+            "versions": [
+              {
+                "version": "1.5.2-6.34.1",
+                "date": "2024-01-09",
+                "size": 69188808,
+                "downloadURL": "https://github.com/BlueKernelPanic/MustHave-IPA-Library/releases/download/2024-01-09/YTMusicUltimate-6.34.1-zxcvbn.ipa",
+                "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate. This version is fully functional on Carplay"
+              }
+            ]
+        }
+]
+}
