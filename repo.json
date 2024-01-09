@@ -12,6 +12,7 @@
             "name": "AppStore++",
             "bundleIdentifier": "com.cokepokes.AppStorePlus",
             "developerName": "CokePokes",
+            "tintColor": "3a4491",
             "iconURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/com.cokepokes.AppStorePlus.png",
             "versions": [
               {
@@ -27,6 +28,7 @@
             "name": "CarTube",
             "bundleIdentifier": "com.avangelista.CarTube",
             "developerName": "Avangelista",
+            "tintColor":	"162434",
             "iconURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/com.avangelista.CarTube.png",
             "versions": [
               {
@@ -42,6 +44,7 @@
             "name": "CyPwnStore",
             "bundleIdentifier": "Ed0ardo.CyPwn-Store",
             "developerName": "CyPwn IPA Library",
+            "tintColor":	"343a40",
             "iconURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/Ed0ardo.CyPwn-Store.png",
             "versions": [
               {
@@ -57,6 +60,7 @@
             "name": "Enmity (Discord client)",
             "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Enmity",
+            "tintColor":	"284ed5",
             "iconURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/com.hammerandchisel.discord.png",
             "versions": [
               {
@@ -72,6 +76,7 @@
             "name": "Misaka",
             "bundleIdentifier": "com.straight-tamago.misakaRS",
             "developerName": "Misaka",
+            "tintColor":	"bf2cbc",
             "iconURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/com.straight-tamago.misakaRS.png",
             "versions": [
               {
@@ -87,6 +92,7 @@
             "name": "Spotify (Spotilife)",
             "bundleIdentifier": "com.spotify.client",
             "developerName": "u/alnoise / zxcvbn's tweaked IPAs",
+            "tintColor":	"1db954",
             "iconURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/com.spotify.client.png",
             "versions": [
               {
@@ -102,6 +108,7 @@
             "name": "TrollApps",
             "bundleIdentifier": "org.resonance.store",
             "developerName": "TrollApps",
+            "tintColor": "8b30d2",
             "iconURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/org.resonance.store.png",
             "versions": [
               {
@@ -117,6 +124,7 @@
             "name": "Truecaller (Premium)",
             "bundleIdentifier": "com.truesoftware.TrueCallerOther",
             "developerName": "Ravand Bajlory / iOS Tutorials + App Cracks",
+            "tintColor":	"4b9eff",
             "iconURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/com.truesoftware.TrueCallerOther.png",
             "versions": [
               {
@@ -132,6 +140,7 @@
             "name": "Twitch (Plus)",
             "bundleIdentifier": "tv.twitch",
             "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg",
+            "tintColor":	"6441a5",
             "iconURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/tv.twitch.png",
             "versions": [
               {
@@ -147,6 +156,7 @@
             "name": "Youtube (uYouEnhanced)",
             "bundleIdentifier": "com.google.ios.youtube",
             "developerName": "arichorn / zxcvbn's tweaked IPAs",
+            "tintColor":	"e85567",
             "iconURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/com.google.ios.youtube.png",
             "versions": [
               {
@@ -162,6 +172,7 @@
             "name": "Youtube Music (YTMusicUltimate)",
             "bundleIdentifier": "com.google.ios.youtubemusic",
             "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / AppDB / IPAHACK / FayezUpdates / zxcvbn\u2019s tweaked IPAs / DarkWebUser / ginsudev / HertzSign iPA Library",
+            "tintColor":	"5e1f12",
             "iconURL": "https://raw.githubusercontent.com/BlueKernelPanic/MustHave-IPA-Library/master/icons/com.google.ios.youtubemusic.png",
             "versions": [
               {
